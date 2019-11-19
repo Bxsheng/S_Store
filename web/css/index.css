@@ -1,0 +1,118 @@
+.index_left_right{
+	padding-left: 320px;
+	padding-right: 320px;
+}
+
+.index_nav2{
+	background: #1B6D85;
+	
+}
+.img_show{
+	
+	height: 454px;
+	width: 100%;
+	padding-left: 320px;
+	padding-right: 320px;
+
+}
+
+.img_li{
+	height: 454px;
+	width: 234px;
+	
+
+}
+/* //轮播
+.img_lb{
+	 
+	 margin-left: 1px; 
+	 height: 453px;
+	 width: 100%;
+	 background: #000000;
+} */
+.index_list-group-item {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: rgba(105,101,101,.6);
+    border: 1px solid #ddd;
+}
+
+
+.swiper-container {
+    /*  width: 100%;
+      height: 100%; */
+	   height: 453px;
+	  
+    }
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.img_bottom{
+	width: 1280px;
+	height: 173px; 
+	margin-left: 320px;
+	margin-top: 5px; 
+}
+
+.img_b_1{
+	float: left; 
+	width:234px; 
+
+	height: 100%;
+}
+
+.img_b_2{
+	float: left; 
+	width:320px; 
+	height: 100%; margin-left: 28px;
+}
+
+.img_rx{
+	width: 1280px;
+	height: 30px; 
+	margin-left: 320px;
+	margin-top: 5px; 
+	
+}
+.img_rx_1{
+	width: 1280px;
+	height: 620px; 
+	margin-left: 320px;
+	margin-top: 5px; 
+	
+}
+.bg_login{
+	 background: #081638;
+	 max-width: 100%; 
+	 min-height: 500px; 
+	 position:relative;
+}
+.bg_bg{
+	background: url(../img/login_bg.png);
+	 margin: auto;  
+	top: 0; 
+	left: 0; 
+	bottom: 0; 
+	right: 0; 
+	width:1000px;
+	height: 520px;
+}
