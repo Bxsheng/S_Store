@@ -2,7 +2,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-  <meta charset="utf-8" />
+  <meta charset="utf-8"  />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>昇-首页</title>
   <link type="text/css" rel="stylesheet" href="${pageContext.request.contextPath}/css/bootstrap.min.css" />
@@ -117,7 +117,7 @@
       <div class="col-xs-6 col-sm-3" style=" height: 620px;">
         <img src="${pageContext.request.contextPath}/img/1_1_1.png" style="width: 100%; height: 100%;" />
       </div>
-      <div class="col-xs-6 col-sm-9 " style=" 620px;">
+      <div class="col-xs-6 col-sm-9 " style=" height:620px;">
         <a href="${pageContext.request.contextPath}/jsp/product.jsp">
           <div class="col-xs-6 col-md-3">
             <div class="thumbnail">
